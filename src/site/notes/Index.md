@@ -8,4 +8,7 @@
 
 Custom list 
 - [[Silica GAP/Monitoring the phase transition from alpha to beta quartz using the GAP potential|Monitoring the phase transition from alpha to beta quartz using the GAP potential]]
--
+- VASP 
+	- [[VASP on cluster/Install on GPU machine|Install on GPU machine]]
+	- [[VASP on cluster/Running vasp on GPU machine|Running vasp on GPU machine]]
+	- 
