@@ -12,6 +12,6 @@ Custom list
 	- [[VASP on cluster/Install on GPU machine|Install on GPU machine]]
 	- [[VASP on cluster/Running vasp on GPU machine|Running vasp on GPU machine]]
 	- [[DeePMD/Training deep MD on silica DFT simulations|Training deep MD on silica DFT simulations]]
-	- 
+	- [[DeePMD/Running a docker image containing deepmd|Running a docker image containing deepmd]]
 
 Publishes on : https://gentle-sorbet-4446bc.netlify.app
