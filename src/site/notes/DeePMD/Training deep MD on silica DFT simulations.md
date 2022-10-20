@@ -33,6 +33,9 @@ dp train input.json
 Our approach will be: 
 1) Generate a set of initial structures as given in the table above. 
 
+## Training an initial model
+We can the 
+Lets try the se_atten descriptor https://docs.deepmodeling.com/projects/deepmd/en/master/model/train-se-atten.html
 
 ## Configuration of VASP simulations 
 There are several types of VASP simulations to be performed. They are mainly of three types: 
