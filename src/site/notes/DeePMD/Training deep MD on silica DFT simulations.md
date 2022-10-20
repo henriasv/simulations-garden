@@ -16,7 +16,9 @@ We start by running a DFT simulation of some relevant silica system that explore
 
 When we get `OUTCAR` files from VASP DFT simulations, we run the following command to turn them into DeePMD training data: 
 ```python 
-
+import dpdata
+dsys = dpdata.LabeledSystem('OUTCAR')
+dsys.to('deepmd/npy', 'deepmd_data', set_size = dsys.get_nframes())
 ```
 
 When we have our training data, we execute the following command to train he model: 
